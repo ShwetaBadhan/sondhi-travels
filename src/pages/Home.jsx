@@ -1,7 +1,7 @@
 import { useState } from "react";
 import SearchTabs from "../components/SearchTab";
-import TrendingSection from "../components/TrendingSection";
-import PackagesSection from "../components/PackagesSection";
+// import TrendingSection from "../components/TrendingSection";
+// import PackagesSection from "../components/PackagesSection";
 import PartnersSection from "../components/PartnersSection";
 
 const Home = () => {
@@ -59,7 +59,7 @@ const Home = () => {
 
       {/* <TrendingSection /> */}
       <PartnersSection />
-      <PackagesSection />
+      {/* <PackagesSection /> */}
     </div>
   );
 };

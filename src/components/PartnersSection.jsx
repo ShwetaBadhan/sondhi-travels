@@ -4,15 +4,18 @@ import "./PartnersSection.css";
 
 const partners = [
   { name: "Singapore Airlines",    logo: "/logo-1.png" },
-  { name: "Singapore Airlines", logo: "/logo-1.png" },
-  { name: "Singapore Airlines",    logo: "/logo-1.png" },
-  { name: "Singapore Airlines",      logo: "/logo-1.png" },
-  { name: "Singapore Airlines",     logo: "/logo-1.png" },
-  { name: "Singapore Airlines",   logo: "/logo-1.png" },
-  { name: "Singapore Airlines",   logo: "/logo-1.png" },
-  { name: "Singapore Airlines",     logo: "/logo-1.png" },
-  { name: "Singapore Airlines",    logo: "/logo-1.png" },
-  { name: "Singapore Airlines",    logo: "/logo-1.png" },
+  { name: "Indigo Airlines", logo: "/indigo.png" },
+  { name: "Airindia Airlines",    logo: "/airindia.svg" },
+  { name: "Etihad Airlines",      logo: "/etihad.png" },
+  { name: "Emirates Airlines",     logo: "/emirates.png" },
+  { name: "Cebu Airlines",   logo: "/cebu.webp" },
+  { name: "Air Asia Airlines",   logo: "/air-asia.png" },
+  { name: "Air Arabia Airlines",     logo: "/air-arabia.png" },
+  { name: "Philipines Airlines",    logo: "/philipines.png" },
+  { name: "Qatar Airlines",    logo: "/qatar.png" },
+  { name: "SriLankan Airlines",    logo: "/sirlanka.png" },
+  { name: "vitejet Airlines",    logo: "/vitejet.png" },
+  { name: "Vietnam Airlines",    logo: "/vietnam.png" },
 ];
 
 const doubled = [...partners, ...partners];

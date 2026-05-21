@@ -29,7 +29,9 @@ body {
 
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.18);
 }
-
+.logo-navbar{
+  width: 120px;
+}
 /* CONTAINER */
 .nav-container {
   max-width: 1240px;

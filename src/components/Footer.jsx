@@ -16,7 +16,9 @@ const Footer = () => {
 
         {/* BRAND */}
         <div className="footer-col">
-          <h2 className="footer-logo">✈️ Sondhi Travels</h2>
+          <h2 className="footer-logo">
+            <img src="/sondhi-travels.png" alt="logo" className="logo-navbar" />
+          </h2>
           <p>
             Sondhi Travels connects agents and travelers with a streamlined digital platform, delivering expertise in aviation, tourism, and luxury experiences.
           </p>

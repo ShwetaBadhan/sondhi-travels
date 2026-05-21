@@ -21,8 +21,9 @@ const Navbar = () => {
 
         {/* LEFT - LOGO */}
         <div className="logo">
-          <FaPlaneDeparture className="logo-icon" />
-          <span>Sondhi Travels</span>
+          {/* <FaPlaneDeparture className="logo-icon" />
+          <span>Sondhi Travels</span> */}
+          <img src="/sondhi-travels.png" alt="logo" className="logo-navbar" />
         </div>
 
         {/* HAMBURGER */}
